@@ -1,0 +1,22 @@
+--- running on core 4 ---
+--- indirect_branch_misprediction ---
+event 0xc6 hits
+event 0xca hits
+event 0xcb hits
+event 0xce hits
+event 0xd5 hits
+event 0xde hits
+--- conditional_branch_misprediction ---
+event 0xc5 hits
+event 0xcb hits
+event 0xcd hits
+--- DCACHE_store_miss ---
+event 0x96 hits
+event 0x9b hits
+event 0xc0 hits
+--- DCACHE_load_miss ---
+event 0x95 hits
+event 0x9b hits
+event 0xbf hits
+--- DTLB_miss ---
+event 0xc1 hits
