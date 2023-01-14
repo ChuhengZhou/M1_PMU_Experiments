@@ -1,4 +1,4 @@
-# M1 Performance Monitoring Unit Framework
+# M1 Performance Monitoring Unit Reversing Framework
 This is a framework for reversing performance events on Apple M1 chips on Asashi Linux.
 
 ## Framework Structure
