@@ -4,7 +4,7 @@ This is a framework for reversing performance events on Apple M1 chips on Asashi
 ## Framework Structure
 `config.h` : Configuration file of the framework
 
-`main.c` : Main reversing functions
+`main.c` : Reversing functions
 
 `output.c` : Output file contains benchmark result
 
